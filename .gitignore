@@ -24,3 +24,6 @@ hs_err_pid*
 
 # Etc
 .DS_Store
+
+.classpath
+.project
