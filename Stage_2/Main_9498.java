@@ -1,3 +1,5 @@
+package Stage_2;
+
 import java.util.Scanner;
 
 // 0 <= score <= 100
