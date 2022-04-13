@@ -1,12 +1,11 @@
+package Stage_1;
+
 import java.util.Scanner;
 
-public class Main_1001 {
+public class Main_10926 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		
-		int a = scan.nextInt();
-		int b = scan.nextInt();
-		
-		System.out.println(a - b);
+		String str = scan.next();
+		System.out.println(str + "??!");
 	}
 }

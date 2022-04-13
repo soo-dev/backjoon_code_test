@@ -1,3 +1,5 @@
+package Stage_1;
+
 import java.util.Scanner;
 
 public class Main_10869 {
