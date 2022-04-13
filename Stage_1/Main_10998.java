@@ -1,12 +1,14 @@
+package Stage_1;
+
 import java.util.Scanner;
 
-public class Main_1008 {
+public class Main_10998 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
 		int a = scan.nextInt();
 		int b = scan.nextInt();
 		
-		System.out.print((double)a/b);
+		System.out.println(a * b);
 	}
 }
